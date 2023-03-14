@@ -12,8 +12,11 @@ Com o **vCard Personal Web Profile**, é muito fácil criar um portfolio website
 
 ## Demostração
 **Desktop**
+
 ![Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+
 **Mobile**
+
 ![Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
 ## Pré-requisitos
