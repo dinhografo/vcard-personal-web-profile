@@ -1,44 +1,47 @@
 # vCard - Personal portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+![GitHub repo size](https://img.shields.io/github/repo-size/dinhografo/vcard-personal-web-profile)
+![GitHub stars](https://img.shields.io/github/stars/dinhografo/vcard-personal-web-profile?style=social)
+![GitHub forks](https://img.shields.io/github/forks/dinhografo/vcard-personal-web-profile?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/DinhoInfoArtes?style=social)](https://twitter.com/DinhoInfoArtes)
+[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://www.youtube.com/@dinhoinfoartes)
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+Compatível com todos os dispositivos, o **vCard Personal Web Profile** permite criar um portfolio website completo, usar como página do seu perfil e destacar suas habilidades em qualquer plataforma.
 
-## Demo
+Com o **vCard Personal Web Profile**, é muito fácil criar um portfolio website completo. Compatível com todos os dispositivos e criado com HTML, CSS e JavaScript, este modelo de página para perfil vai impressionar seus seguidores.
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+## Demostração
+**Desktop**
+![Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+**Mobile**
+![Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
-## Prerequisites
+## Pré-requisitos
 
-Before you begin, ensure you have met the following requirements:
+Antes de começar, verifique se você atende aos seguintes requisitos:
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+O **[Git](https://git-scm.com/downloads "Download Git")** deve estar instalado em seu sistema operacional.
 
-## Installing vCard
+## Instalando o vCard Personal Web Profile
 
-To install **vCard**, follow these steps:
+Para instalar **vCard Personal Web Profile**, siga esses passos:
 
-Linux and macOS:
+Para Linux e macOS:
 
 ```bash
 sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
 ```
 
-Windows:
+Para Windows:
 
 ```bash
 git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
 ```
 
-## Contact
+## Contato
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+Se você quiser entrar em contato comigo, pode me encontrar no [Instagram].@dinhoinfoartes.
 
-## License
+## Licença
 
-This project is **free to use** and does not contains any license.
+Este projeto é livre para uso e não contém qualquer licença.
