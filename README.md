@@ -1,9 +1,9 @@
 # vCard - Personal portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/dinhografo/vcard-personal-web-profile)
-![GitHub stars](https://img.shields.io/github/stars/dinhografo/vcard-personal-web-profile?style=social)
-![GitHub forks](https://img.shields.io/github/forks/dinhografo/vcard-personal-web-profile?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/DinhoInfoArtes?style=social)](https://twitter.com/DinhoInfoArtes)
+![GitHub repo size](https://img.shields.io/github/repo-size/dinhoinfoartes/vcard-personal-web-profile)
+![GitHub stars](https://img.shields.io/github/stars/dinhoinfoartes/vcard-personal-web-profile?style=social)
+![GitHub forks](https://img.shields.io/github/forks/dinhoinfoartes/vcard-personal-web-profile?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/dinhoinfoartes?style=social)](https://twitter.com/dinhoinfoartes)
 [![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://www.youtube.com/@dinhoinfoartes)
 
 Compatível com todos os dispositivos, o **vCard Personal Web Profile** permite criar um portfolio website completo, usar como página do seu perfil e destacar suas habilidades em qualquer plataforma.
